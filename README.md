@@ -5,7 +5,7 @@
 
  🔭 I’m working on **Drugs discovery related project at leapfrog**.
  
- 🌱 I’m currently learning AWS & React native
+ 🌱 I’m currently learning AWS , React native & MongoDB
  
  :books: I want to learn <img src="https://img.shields.io/badge/-python-3a495d?style=flat&logo=python"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
