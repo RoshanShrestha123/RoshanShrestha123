@@ -3,7 +3,7 @@
 ---
 
 
- 🔭 I’m working on **Drugs discovery related project at leapfrog**.
+ 🔭 I’m working on **Leapfrog** as a software engineer.
  
  🌱 I’m currently learning AWS , React native & MongoDB
  
