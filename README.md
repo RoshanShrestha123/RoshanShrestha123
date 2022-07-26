@@ -3,7 +3,7 @@
 ---
 
 
- 🔭 I’m working on **Leapfrog** as a software engineer.
+ 🔭 I’m working on **RiseKit** as a software engineer.
  
  🌱 I’m currently learning AWS , React native & MongoDB
  
@@ -25,6 +25,9 @@
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
@@ -44,7 +47,7 @@
 <img src="http://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript&logoColor=00c8ff">
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
 
 ---
 
