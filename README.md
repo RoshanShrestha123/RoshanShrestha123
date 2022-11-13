@@ -15,7 +15,7 @@
  
  💬 Ask me about Web development, Javascript, Design and any Tech-related stuff.
  
- 🪴 My Very recent small project: https://www.weeksinlife.com/
+ 🪴 My Very recent small project: https://weeksinlife.surge.sh/
 
 Blogging here: https://roshanbabuwa.hashnode.dev/
 
