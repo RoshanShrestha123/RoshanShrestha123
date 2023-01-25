@@ -15,7 +15,10 @@
  
  💬 Ask me about Web development, Javascript, Design and any Tech-related stuff.
  
- 🪴 My Very recent small project: https://weeksinlife.surge.sh/
+ 🪴 My Very recent small projects: <br>
+ [Github tracker to check student project progress](https://trophy-murex.vercel.app/) <br>
+ [Weeks in Life](https://weeksinlife.surge.sh/) <br>
+ [Own Blogging site in Laravel](https://frontend-coral-pi.vercel.app/) <br>
 
 Blogging here: https://roshanbabuwa.hashnode.dev/
 
