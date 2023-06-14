@@ -20,7 +20,7 @@
  - [ez-cli-color NPM package](https://www.npmjs.com/package/ez-cli-color) <br>
 
 📗 **Blogging here**: https://roshanbabuwa.hashnode.dev/ <br>
-💻 **Youtube videos**: https://www.youtube.com/@roshanshrestha2113/featured
+💻 **Youtube videos**: [Your Coding Mentor](https://www.youtube.com/channel/UC5YqRvaF_2eC30HuA3jbDrA)
 
 ---
 
