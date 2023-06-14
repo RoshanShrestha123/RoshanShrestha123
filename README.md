@@ -15,16 +15,12 @@
  
  💬 Ask me about Web development, Javascript, Design and any Tech-related stuff.
  
- 🪴 My Very recent small projects: <br>
- [Github tracker to check student project progress](https://trophy-murex.vercel.app/) <br>
- [Weeks in Life](https://weeksinlife.surge.sh/) <br>
- [Own Blogging site in Laravel](https://frontend-coral-pi.vercel.app/) <br>
+ 🪴 **Recent Projects**: <br>
+ - [Weeks in life Google Extention](https://chrome.google.com/webstore/detail/weeks-in-a-life/fngphhgadjmeahcpdlndnipbbbadjlha/related?hl=en&authuser=0) <br>
+ - [ez-cli-color NPM package](https://www.npmjs.com/package/ez-cli-color) <br>
 
-Blogging here: https://roshanbabuwa.hashnode.dev/ <br>
-Youtube videos: https://www.youtube.com/@roshanshrestha2113/featured
-
-![Profile views](https://gpvc.arturio.dev/RoshanShrestha123)  <img src="https://img.shields.io/github/followers/RoshanShrestha123?label=Follow" style=" float:left, margin-right:10px" />
-
+📗 **Blogging here**: https://roshanbabuwa.hashnode.dev/ <br>
+💻 **Youtube videos**: https://www.youtube.com/@roshanshrestha2113/featured
 
 ---
 
@@ -52,15 +48,7 @@ Youtube videos: https://www.youtube.com/@roshanshrestha2113/featured
 <img src="http://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws&logoColor=white">
 <img src="http://img.shields.io/badge/-Figma-white?style=flat&logo=figma&logoColor=#EE501D">
 <img src="http://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript&logoColor=00c8ff">
-
-### Other Languages I know
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanShrestha123&show_icons=true&hide_border=true)
-
-
 
 
 Let's connect 👨‍💻 and forge the future together.😁✌
