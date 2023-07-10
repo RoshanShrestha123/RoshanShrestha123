@@ -19,8 +19,9 @@
  - [Weeks in life Google Extention](https://chrome.google.com/webstore/detail/weeks-in-a-life/fngphhgadjmeahcpdlndnipbbbadjlha/related?hl=en&authuser=0) <br>
  - [ez-cli-color NPM package](https://www.npmjs.com/package/ez-cli-color) <br>
 
-📗 **Blogging here**: https://roshanbabuwa.hashnode.dev/ <br>
-💻 **Youtube videos**: [Your Coding Mentor](https://www.youtube.com/channel/UC5YqRvaF_2eC30HuA3jbDrA)
+📗 **Blogging here**: [HashNode](https://roshanbabuwa.hashnode.dev/) <br>
+💻 **Youtube videos**: [Your Coding Mentor](https://www.youtube.com/channel/UC5YqRvaF_2eC30HuA3jbDrA) <br>
+🎨 **3D modeling**: [BeHance](https://www.behance.net/roshanshrestha18)
 
 ---
 
