@@ -7,7 +7,7 @@
 
  🔭 I’m working on **RiseKit** as a software engineer.
  
- 🌱 I’m currently learning AWS , React native & MongoDB
+ 🌱 I’m currently learning C++
  
  :books: I want to learn <img src="https://img.shields.io/badge/-python-3a495d?style=flat&logo=python"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
