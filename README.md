@@ -19,7 +19,7 @@
  - [ez-cli-color NPM package](https://www.npmjs.com/package/ez-cli-color) <br>
  - [Ramesh dai ko meme pasal](https://meme.roshanstha.com/) <br>
 
-📗 **Blogging here**: [Blogs]([https://roshanbabuwa.hashnode.dev/](https://roshan-shrestha.vercel.app/)) <br>
+📗 **Blogging here**: [Blogs](https://roshan-shrestha.vercel.app/) <br>
 💻 **Youtube videos**: [Your Coding Mentor](https://www.youtube.com/channel/UC5YqRvaF_2eC30HuA3jbDrA) <br>
 🎨 **3D modeling**: [BeHance](https://www.behance.net/roshanshrestha18)
 
